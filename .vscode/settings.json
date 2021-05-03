@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "json.schemas": [
+
+    
+    ],
+    "editor.codeActionsOnSave": null,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
